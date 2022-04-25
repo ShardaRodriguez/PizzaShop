@@ -1,0 +1,30 @@
+
+input[type= "submit"]{
+
+  padding: 15px 80px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  background-color: red;
+}
+
+.buttonBar{
+  width: 300px;
+  height: 300px;
+  margin-left: 1cm;
+  float:left;
+}
+
+.pictureGallery{
+  width:  1000px;
+  height: 300px;
+  margin-left: 350px;
+  border: solid 2px darkgreen;
+}
+
+.pizzaPicture{
+
+  width:  250px;
+  height: 150px;
+  float:left;
+}
